@@ -1,0 +1,10 @@
+table.crazy{background-image:url(images/perfiles/crazy/crazy.jpg);font-family:Arial, Helvetica, sans-serif;text-align:justify;border-bottom:outset #FF0000 6px;border-right:outset #FF0000 6px;border-top:inset #FFFF00 6px;border-left:inset #FFFF00 6px;background-color:#00032a;color:#FFFFFF;}
+table.crazy p.crazy1{text-align:left;font-family:Arial, Helvetica, sans-serif;font-size:24px;color:#FFFFFF;font-weight:bold;padding:0 0 15px 0;}
+table.crazy img{border:#666666 outset 5px;}
+table.crazy a, table.crazy a:visited{color:#00FF33;}
+table.crazy a:hover{color:#FFFF66;}
+table.crazy p.crazyheader{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:18px;color:#FFFFFF;padding:7px 7px 7px 7px;}
+table.crazy table.crazycontent{text-align:left;text-decoration:none;padding:3px 3px 3px 3px;}
+table.crazy table.crazycontent a, table.crazy table.crazycontent a:visited{text-align:left;text-decoration:none;}
+table.crazy table.crazyinfo{border:dashed #FFFFFF 3px;padding:5px 5px 5px 5px;text-align:left;}
+td.crazycomments{border-bottom:solid #CCCCFF 3px;border-top:solid #009999 3px;}

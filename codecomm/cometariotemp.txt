@@ -1,0 +1,4 @@
+<?php
+onclick="loadXMLDoc('comentario.php', 'comment=' + document.getElementById('comment').value.replace('&amp;', '%26') + '&amp;id=<?php echo $id; ?>', 'POST', 'commentfeed'); return false;"
+
+?>	

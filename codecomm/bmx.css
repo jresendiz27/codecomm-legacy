@@ -1,0 +1,509 @@
+/*
+*
+* para los perfiles
+*
+*/
+
+/*
+tema crazy
+*/
+
+table.crazy
+	{
+	background-image:url(images/perfiles/crazy/crazy.jpg);
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+	border-bottom:outset #FF0000 6px;
+	border-right:outset #FF0000 6px;
+	border-top:inset #FFFF00 6px;
+	border-left:inset #FFFF00 6px;
+	background-color:#00032a;
+	color:#FFFFFF;
+	}
+table.crazy p.crazy1
+	{
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:0 0 15px 0;
+	}
+table.crazy img
+	{
+	border:#666666 outset  5px;
+	}
+table.crazy a, table.crazy a:visited
+	{
+	color:#00FF33;
+	}
+table.crazy a:hover
+	{
+	color:#FFFF66;
+	}
+table.crazy p.crazyheader
+	{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FFFFFF;
+	padding: 7px 7px 7px 7px;
+	}
+table.crazy table.crazycontent
+	{
+	text-align:left;
+	text-decoration:none;
+	padding:3px 3px 3px 3px;
+	}
+table.crazy table.crazycontent a, table.crazy table.crazycontent a:visited
+	{
+	text-align:left;
+	text-decoration:none;
+	}
+table.crazy table.crazyinfo
+	{
+	border:dashed #FFFFFF 3px;
+	padding:5px 5px 5px 5px;
+	text-align:left;
+	}
+td.crazycomments
+	{
+	border-bottom:solid #CCCCFF 3px;
+	border-top:solid #009999 3px;
+	}
+
+/*
+tema clasico
+*/
+
+table.classic
+	{
+	background-image:url(images/perfiles/classic/back.png);
+	background-position:top;
+	background-repeat:repeat-x;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+	border:outset #006699 6px;
+	background-color:#00032a;
+	color:#FFFFFF;
+	}
+table.classic p.classic1
+	{
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:underline;
+	border-bottom:dotted;
+	padding:0 0 15px 0;
+	}
+table.classic img
+	{
+	border:#000000 outset  5px;
+	}
+table.classic a, table.classic a:visited
+	{
+	color:#3333CC;
+	}
+table.classic a:hover
+	{
+	color:#0066FF;
+	}
+table.classic p.classicheader
+	{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#00CCFF;
+	padding: 7px 7px 7px 7px;
+	border:#0066CC dotted 2px;
+	}
+table.classic table.classiccontent
+	{
+	text-align:left;
+	text-decoration:none;
+	padding:3px 3px 3px 3px;
+	}
+table.classic table.classiccontent a, table.classic table.classiccontent a:visited
+	{
+	text-align:left;
+	text-decoration:none;
+	}
+table.classic table.classicinfo
+	{
+	border:dashed #009999 3px;
+	padding:5px 5px 5px 5px;
+	text-align:left;
+	}
+td.classiccomments
+	{
+	border-bottom:dashed #CCCCFF 3px;
+	border-top:dashed #009999 3px;
+	}	
+/*
+tema coderadio
+*/
+table.coderadio
+	{
+	background-image:url(images/perfiles/coderadio/back4.jpg);
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+	border:outset #9900CC 6px;
+	color:#FFFFFF;
+	}
+table.coderadio p.coderadio1
+	{
+	text-align:right;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:0 0 15px 0;
+	border-bottom:#FFFFFF solid 2px;
+	}
+table.coderadio img
+	{
+	border:#CC3366 outset  5px;
+	}
+table.coderadio a, table.coderadio a:visited
+	{
+	color:#FFFFFF;
+	}
+table.coderadio a:hover
+	{
+	color:#CC9999;
+	}
+table.coderadio p.coderadioheader
+	{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#9999CC;
+	padding: 7px 7px 7px 7px;
+	border:#99CCFF groove 5px;
+	}
+table.coderadio table.coderadiocontent
+	{
+	text-align:left;
+	text-decoration:none;
+	padding:3px 3px 3px 3px;
+	}
+table.coderadio table.coderadiocontent a, table.coderadio table.coderadiocontent a:visited
+	{
+	text-align:left;
+	text-decoration:none;
+	}
+table.coderadio table.coderadioinfo
+	{
+	border:#FF6600 dashed 1px;
+	padding:5px 5px 5px 5px;
+	text-align:left;
+	}
+td.coderadiocomments
+	{
+	border-bottom:solid #FF66FF 1px;
+	border-top:solid #FF66FF 1px;
+	}
+/*
+*
+*para firefox, opera,safari y chrome
+*
+*/
+table.general {
+	background-image:url(images/bmx/rsquares.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+	font-family:Verdana;
+	font-size:12px;
+	background-color:#FFFFFF;
+	border-color:#000000;
+	border-bottom-style:solid;
+	border-width:medium;
+}
+table.foot {
+	background-image:url(images/bmx/foot.jpg);
+	background-repeat:repeat-y;
+	background-position:left;
+	font-family:Verdana;
+	font-size:12px;
+	background-color:#000000;
+	color:#FFFFFF;
+}
+tr.general
+	{
+	background-image:url(images/bmx/rsquares2.jpg);
+	background-position:bottom;
+	background-repeat:repeat-x;
+	font-family:Verdana;
+	font-size:12px;
+	background-color:#FFFFFF;
+	}
+table.news
+	{
+	background-repeat:repeat-x;
+	background-color:#FFFFFF;
+	text-decoration:none;
+	color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+.news tr, .news td
+	{
+	padding: 2px 4px 2px 4px;
+	/*border-style:inset;*/
+	text-decoration:none;
+	/*border-color:#FFD700;*/
+	color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+.news th
+	{
+	background-image:url(images/bmx/blsquares.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-decoration:underline;
+	}
+.news a,.news a:visited
+	{
+	text-align:justify;
+	text-decoration:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	}
+.news a:hover
+	{
+	clear:both;
+	text-align:justify;
+	text-decoration:underline;
+	color:#FF0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+span.news
+	{
+	color:#000000;
+	border-bottom-style:groove;
+	border-color:#2F4F4F;
+	}
+table.post
+	{
+	background-repeat:repeat-x;
+	background-color:#FFFFFF;
+	text-decoration:none;
+	color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+.post th
+	{
+	background-image:url(images/bmx/blsquares.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-decoration:underline;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+span.post
+	{
+	color:#000000;
+	font-weight:bold;
+	}
+.post a,.post a:visited
+	{
+	text-align:justify;
+	text-decoration:underline;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	}
+.post a:hover
+	{
+	text-align:justify;
+	text-decoration:none;
+	color:#FF0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+.post tr, .post td
+	{
+	text-align:justify;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+/*
+*
+*para la caja de login
+*
+**/
+	.login
+		{		
+		float:right;
+		position:absolute;
+		height:270px;
+		width:150px;
+		padding:0px 15px 15px 15px;
+		background-color:#000000;
+		color:#FFFFFF;
+		list-style-type: none;
+		text-align:justify;
+		font-family:Arial, Helvetica, sans-serif;
+		}
+	.links a, .links a:hover
+		{
+		text-decoration:none;
+		text-align:center;
+		}
+/*
+*
+* para menus
+*
+*/
+.menu{
+	border:none;
+	border:0px;
+	margin:0px;
+	padding:0px;
+	font: 67.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	}
+.menu ul{
+	background:#000000;
+	height:35px;
+	list-style:none;
+	margin:0;
+	padding:0;
+	}
+	.menu li{
+		float:left;
+		padding:0px;
+		}
+	.menu li a{
+		background:#000000;
+		color:#FFFFFF;
+		display:block;
+		font-weight:normal;
+		line-height:35px;
+		margin:0px;
+		padding:0px 25px;
+		text-align:center;
+		text-decoration:none;
+		}
+		.menu li a:hover, .menu ul li:hover a{
+			background:#000000;
+			color:#FFFFFF;
+			text-decoration:underline;
+			}
+	.menu li ul{
+		background:#FF0000;
+		display:none;
+		height:auto;
+		padding:0px;
+		margin:0px;
+		border:0px;
+		position:absolute;
+		width:150px;
+		z-index:200;
+		/*top:1em;
+		/*left:0;*/
+		}
+	.menu li:hover ul{
+		display:block;
+		
+		}
+	.menu li li {
+		background-color:#FF0000;;
+		display:block;
+		float:none;
+		margin:0px;
+		padding:0px;
+		width:225px;
+		}
+	.menu li:hover li a{
+		background:none;
+		
+		}
+	.menu li ul a{
+		display:block;
+		height:35px;
+		font-size:12px;
+		font-style:normal;
+		margin:0px;
+		padding:0px 10px 0px 15px;
+		text-align:left;
+		}
+	.menu li ul a:hover, .menu li ul li:hover a{
+			background:#FF0000;
+			border:0px;
+			color:#FFFFFF;
+			text-decoration:none;
+			}
+	.menu p{
+		clear:left;
+		}
+p.access
+	{
+	color:#FFFFFF;
+	font-family:inherit;
+	 text-align:center;
+	 font-size:inherit;
+	}
+td.header
+	{
+	background-image:url(images/bmx/bck2.jpg);
+	background-position:center;
+	background-repeat:none;
+	border:#FFA500 solid 1.5px;
+	text-decoration:none;
+	}
+table.tmain
+	{
+	/*border:double #A9A9A9 2px;*/
+	}
+td.tmenu
+	{
+	background-color:#000000;
+	border:#FFFF00 thin 1px;
+	}
+body
+	{
+	background-image:url(images/bmx/squares.png);
+	background-color:#000000;
+	font-size:12px;
+	}
+p.date
+	{
+	color:#FFFFFF;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:right;
+	border:#FFFFFF solid 1.5px;
+	background-color:#000000;
+	}
+.auxhead
+	{
+	background-image:url(images/bmx/hdr.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	}
+/*aki van los css de internet explorer 
+los que no reconoce a la primera o para k no se vea tan pinche*/
+.iex_a a, .iex_a p
+	{
+	color:#ffffff;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+	}
+.iex_cat a:visited,.iex_cat a:hover,.iex_cat a
+	{
+	color:#ffffff;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+.iex_td
+	{
+	background-color:#C0C0C0;
+	text-align:left;
+	}
+.iex_thm
+	{
+	background-color:#708090;
+	text-align:left;
+	color:#6B8E23;
+	}

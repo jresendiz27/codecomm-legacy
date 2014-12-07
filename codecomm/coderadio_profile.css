@@ -1,0 +1,10 @@
+table.coderadio{background-image:url(images/perfiles/coderadio/back4.jpg);font-family:Arial, Helvetica, sans-serif;text-align:justify;border:outset #9900CC 6px;color:#FFFFFF;}
+table.coderadio p.coderadio1{text-align:right;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:24px;color:#FFFFFF;font-weight:bold;padding:0 0 15px 0;border-bottom:#FFFFFF solid 2px;}
+table.coderadio img{border:#CC3366 outset 5px;}
+table.coderadio a, table.coderadio a:visited{color:#FFFFFF;}
+table.coderadio a:hover{color:#CC9999;}
+table.coderadio p.coderadioheader{font-family:Geneva, Arial, Helvetica, sans-serif;color:#9999CC;padding:7px 7px 7px 7px;border:#99CCFF groove 5px;}
+table.coderadio table.coderadiocontent{text-align:left;text-decoration:none;padding:3px 3px 3px 3px;}
+table.coderadio table.coderadiocontent a, table.coderadio table.coderadiocontent a:visited{text-align:left;text-decoration:none;}
+table.coderadio table.coderadioinfo{border:#FF6600 dashed 1px;padding:5px 5px 5px 5px;text-align:left;}
+td.coderadiocomments{border-bottom:solid #FF66FF 1px;border-top:solid #FF66FF 1px;}

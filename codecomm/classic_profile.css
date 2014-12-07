@@ -1,0 +1,10 @@
+table.classic{background-image:url(images/perfiles/classic/back.png);background-position:top;background-repeat:repeat-x;font-family:Arial, Helvetica, sans-serif;text-align:justify;border:outset #006699 6px;background-color:#00032a;color:#FFFFFF;}
+table.classic p.classic1{text-align:center;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:24px;color:#000000;font-weight:bold;text-decoration:underline;border-bottom:dotted;padding:0 0 15px 0;}
+table.classic img{border:#000000 outset 5px;}
+table.classic a, table.classic a:visited{color:#3333CC;}
+table.classic a:hover{color:#0066FF;}
+table.classic p.classicheader{font-family:Geneva, Arial, Helvetica, sans-serif;color:#00CCFF;padding:7px 7px 7px 7px;border:#0066CC dotted 2px;}
+table.classic table.classiccontent{text-align:left;text-decoration:none;padding:3px 3px 3px 3px;}
+table.classic table.classiccontent a, table.classic table.classiccontent a:visited{text-align:left;text-decoration:none;}
+table.classic table.classicinfo{border:dashed #009999 3px;padding:5px 5px 5px 5px;text-align:left;}
+td.classiccomments{border-bottom:dashed #CCCCFF 3px;border-top:dashed #009999 3px;}
